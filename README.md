@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # docker-jenkins-projet1
 
 ## ✨ Description du projet
@@ -137,3 +138,7 @@ Hotio Hen Vicky De Picard
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus d’informations.
 
+=======
+# projet1-ci-cd-docker-jenkins
+Projet d'intégration continue et de déploiement continu (CI/CD) utilisant Docker et Jenkins. Ce projet met en place une chaîne complète de déploiement automatisé pour une application conteneurisée à l’aide de Docker, avec Jenkins comme orchestrateur CI/CD. L’objectif est d’industrialiser le processus de construction.
+>>>>>>> e629b1c9e3aaf17b30c97541fc271a2162dcda2d
