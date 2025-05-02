@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Cloner le repo') {
             steps {
-                git 'https://github.com/vickydepicard/projet1-ci-cd-docker-jenkins.git'
+                git 'git@github.com:vickydepicard/projet1-ci-cd-docker-jenkins.git'
             }
         }
 
